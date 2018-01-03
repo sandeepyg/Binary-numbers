@@ -1,2 +1,2 @@
 # Binary-numbers
-Finding maximum number of 1 in a binary representation of a number
+Given a base-10 integer,n , convert it to binary (base-2). Then find and print the base-10 integer denoting the maximum number of consecutive 1's in n's binary representation.
